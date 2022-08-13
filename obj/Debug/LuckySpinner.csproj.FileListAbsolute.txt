@@ -1,0 +1,30 @@
+C:\Users\MALITH\source\repos\LuckySpinner\LuckySpinner\bin\Debug\LuckySpinner.exe.config
+C:\Users\MALITH\source\repos\LuckySpinner\LuckySpinner\bin\Debug\LuckySpinner.exe
+C:\Users\MALITH\source\repos\LuckySpinner\LuckySpinner\bin\Debug\LuckySpinner.pdb
+C:\Users\MALITH\source\repos\LuckySpinner\LuckySpinner\obj\Debug\LuckySpinner.csprojAssemblyReference.cache
+C:\Users\MALITH\source\repos\LuckySpinner\LuckySpinner\obj\Debug\LuckySpinner.Form1.resources
+C:\Users\MALITH\source\repos\LuckySpinner\LuckySpinner\obj\Debug\LuckySpinner.Properties.Resources.resources
+C:\Users\MALITH\source\repos\LuckySpinner\LuckySpinner\obj\Debug\LuckySpinner.csproj.GenerateResource.cache
+C:\Users\MALITH\source\repos\LuckySpinner\LuckySpinner\obj\Debug\LuckySpinner.csproj.CoreCompileInputs.cache
+C:\Users\MALITH\source\repos\LuckySpinner\LuckySpinner\obj\Debug\LuckySpinner.exe
+C:\Users\MALITH\source\repos\LuckySpinner\LuckySpinner\obj\Debug\LuckySpinner.pdb
+D:\desktop files\Assignment_1(modified)_CS_17_012\LuckySpinner\LuckySpinner\bin\Debug\LuckySpinner.exe.config
+D:\desktop files\Assignment_1(modified)_CS_17_012\LuckySpinner\LuckySpinner\bin\Debug\LuckySpinner.exe
+D:\desktop files\Assignment_1(modified)_CS_17_012\LuckySpinner\LuckySpinner\bin\Debug\LuckySpinner.pdb
+D:\desktop files\Assignment_1(modified)_CS_17_012\LuckySpinner\LuckySpinner\obj\Debug\LuckySpinner.csprojAssemblyReference.cache
+D:\desktop files\Assignment_1(modified)_CS_17_012\LuckySpinner\LuckySpinner\obj\Debug\LuckySpinner.Form1.resources
+D:\desktop files\Assignment_1(modified)_CS_17_012\LuckySpinner\LuckySpinner\obj\Debug\LuckySpinner.Properties.Resources.resources
+D:\desktop files\Assignment_1(modified)_CS_17_012\LuckySpinner\LuckySpinner\obj\Debug\LuckySpinner.csproj.GenerateResource.cache
+D:\desktop files\Assignment_1(modified)_CS_17_012\LuckySpinner\LuckySpinner\obj\Debug\LuckySpinner.csproj.CoreCompileInputs.cache
+D:\desktop files\Assignment_1(modified)_CS_17_012\LuckySpinner\LuckySpinner\obj\Debug\LuckySpinner.exe
+D:\desktop files\Assignment_1(modified)_CS_17_012\LuckySpinner\LuckySpinner\obj\Debug\LuckySpinner.pdb
+C:\Users\Acer\Desktop\LuckySpinner\LuckySpinner\bin\Debug\LuckySpinner.exe.config
+C:\Users\Acer\Desktop\LuckySpinner\LuckySpinner\bin\Debug\LuckySpinner.exe
+C:\Users\Acer\Desktop\LuckySpinner\LuckySpinner\bin\Debug\LuckySpinner.pdb
+C:\Users\Acer\Desktop\LuckySpinner\LuckySpinner\obj\Debug\LuckySpinner.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\LuckySpinner\LuckySpinner\obj\Debug\LuckySpinner.Form1.resources
+C:\Users\Acer\Desktop\LuckySpinner\LuckySpinner\obj\Debug\LuckySpinner.Properties.Resources.resources
+C:\Users\Acer\Desktop\LuckySpinner\LuckySpinner\obj\Debug\LuckySpinner.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\LuckySpinner\LuckySpinner\obj\Debug\LuckySpinner.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\LuckySpinner\LuckySpinner\obj\Debug\LuckySpinner.exe
+C:\Users\Acer\Desktop\LuckySpinner\LuckySpinner\obj\Debug\LuckySpinner.pdb
